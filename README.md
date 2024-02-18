@@ -5,7 +5,7 @@ I am seasoned full-stack software engineer with over 14 years of experience in t
 
 - 🔭 I am currently working on [MazzaFC](https://mazzafc.tech/) allocated to a project in Europe
 
-- 👨‍💻 My portfolio [darlancosta.dev](darlancosta.dev)
+- 👨‍💻 My portfolio [darlancosta.dev](https://darlancosta.dev)
 
 - 📫 How to reach me **hello@darlancosta.dev**
 

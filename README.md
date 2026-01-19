@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darlan Costa</h1>
 <h3 align="center">A passionate full-stack software engineer based in Brazil</h3>
 
-I am seasoned full-stack software engineer with over 14 years of experience in the software development industry. I am deeply passionate about continuous learning and strive to create innovative solutions to complex problems.
+I am seasoned full-stack software engineer with over 15 years of experience in the software development industry. I am deeply passionate about continuous learning and strive to create innovative solutions to complex problems.
 
-- 🔭 I am currently working on [MazzaFC](https://mazzafc.tech/) allocated to a project in Europe
-
-- 👨‍💻 My portfolio [darlancosta.dev](https://darlancosta.dev)
-
-- 📫 How to reach me **hello@darlancosta.dev**
+- 📫 How to reach me **darlandsv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

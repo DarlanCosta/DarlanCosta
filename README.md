@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darlan Costa</h1>
 <h3 align="center">A passionate full-stack software engineer based in Brazil</h3>
 
-I am seasoned full-stack software engineer with over 15 years of experience in the software development industry. I am deeply passionate about continuous learning and strive to create innovative solutions to complex problems.
+I am seasoned full-stack software engineer with over 16 years of experience in the software development industry. I am deeply passionate about continuous learning and strive to create innovative solutions to complex problems.
 
 - 📫 How to reach me **darlandsv@gmail.com**
 
